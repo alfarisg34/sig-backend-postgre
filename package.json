@@ -1,0 +1,26 @@
+{
+  "name": "sig-backend-postgre",
+  "version": "1.0.0",
+  "description": "sig-backend-postgre",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.3",
+    "pg": "^8.7.3",
+    "sequelize": "^6.17.0",
+    "sequelize-cli": "^6.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfarisg34/sig-backend-postgre.git"
+  },
+  "author": "alfari sidnan ghilmana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfarisg34/sig-backend-postgre/issues"
+  },
+  "homepage": "https://github.com/alfarisg34/sig-backend-postgre#readme"
+}
