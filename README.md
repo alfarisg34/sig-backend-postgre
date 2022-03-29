@@ -10,19 +10,19 @@ to run this project:
     ```
     $ cp .env.example .env
     ```
-1. make config file for database
+3. make config file for database
     ```
     $ cp config/config.json.example config/config.json.example
     ```
-1. create database
+4. create database
     ```
     $ npx sequelize-cli db:create
     ```
-1. run migration
+5. run migration
     ```
     $ npx sequelize-cli db:migrate
     ```
-1. run the server
+6. run the server
     ```
     node app.js
     ```
