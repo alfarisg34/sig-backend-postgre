@@ -2,6 +2,9 @@
 const {
   Model
 } = require('sequelize');
+
+const bcrypt = require('../service/bcrypt');
+
 module.exports = (sequelize, DataTypes) => {
   class Admin extends Model {
     /**
