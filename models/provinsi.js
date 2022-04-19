@@ -2,6 +2,9 @@
 const {
   Model
 } = require('sequelize');
+
+const constant = require('../constant')
+
 module.exports = (sequelize, DataTypes) => {
   class Provinsi extends Model {
     /**
@@ -11,7 +14,7 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
-      this.belongsTo(models['Kebudayaan'], {
+      this.belongsTo(models[constant.model.KEBUDAYAAN], {
         foreignKey: 'id_provinsi',
         as: 'id provinsi'
       })
