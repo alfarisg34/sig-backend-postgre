@@ -2,6 +2,9 @@
 const {
   Model
 } = require('sequelize');
+
+const constant = require('../constant')
+
 module.exports = (sequelize, DataTypes) => {
   class Kebudayaan extends Model {
     /**
@@ -11,6 +14,14 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
+      this.hasMany(models[constant.model.PROVINSI], {
+        foreignKey: 'id_provinsi',
+        as: 'id provinsi'
+      }),
+      this.hasMany(models[constant.model.JENISKEBUDAYAAN], {
+        foreignKey: 'id_jenisBudaya',
+        as: 'id jenis budaya'
+      })
     }
   }
   Kebudayaan.init({
