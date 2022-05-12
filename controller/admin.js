@@ -1,16 +1,16 @@
 var createError = require('http-errors');
-const {AdminModel } = require('../models')
+const {AdminModel ,Sequelize: { Op }} = require('../models')
 const { deletedOrAll } = require('../helper/util')
 
 // read all
-exports.read = async (req, res) => {
+exports.reads = async (req, res) => {
     const admins = await AdminModel.findAll({
         attributes: {
             exclude: ['createdAt', 'updatedAt']
         },
         paranoid: false,
         order: [['createdAt', 'ASC']],
-        where: deletedOrAll(req.query),
+        // where: deletedOrAll(req.query),
     })
     res.status(200).json({
         success: true,
@@ -20,7 +20,7 @@ exports.read = async (req, res) => {
 }
 
 // get by id
-exports.get = async (req, res, next) => {
+exports.read = async (req, res, next) => {
     const admin = await AdminModel.findOne({
         attributes: {
             exclude: ['createdAt', 'updatedAt']
@@ -48,7 +48,7 @@ exports.get = async (req, res, next) => {
 exports.create = async (req, res, next) => {
     const {
         username,
-        password
+        password,
     } = req.body
     const admin = await AdminModel.create({
         username,
