@@ -26,7 +26,8 @@ module.exports = (sequelize, DataTypes) => {
     longitude: DataTypes.INTEGER
   }, {
     sequelize,
-    modelName: 'Provinsi',
+    modelName: constant.model.PROVINSI,
+    tableName: constant.dbTableName.PROVINSI,
   });
   return Provinsi;
 };

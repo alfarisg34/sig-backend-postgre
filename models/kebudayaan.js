@@ -1,4 +1,5 @@
 'use strict';
+const createError = require('http-errors')
 const {
   Model
 } = require('sequelize');
@@ -36,7 +37,8 @@ module.exports = (sequelize, DataTypes) => {
     id_jenisBudaya: DataTypes.INTEGER
   }, {
     sequelize,
-    modelName: 'Kebudayaan',
+    modelName: constant.model.KEBUDAYAAN,
+    tableName: constant.dbTableName.KEBUDAYAAN,
   });
   return Kebudayaan;
 };

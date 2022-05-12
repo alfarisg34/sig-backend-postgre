@@ -4,6 +4,7 @@ const {
 } = require('sequelize');
 
 const bcrypt = require('../service/bcrypt');
+const constant = require('../constant')
 
 module.exports = (sequelize, DataTypes) => {
   class Admin extends Model {
@@ -22,16 +23,18 @@ module.exports = (sequelize, DataTypes) => {
     email: DataTypes.STRING
   }, {
     hooks: {
-      beforeCreate: async (user, options) => {
-        const encryptedPassword = await bcrypt.hashPassword(user.password);
-        user.password = encryptedPassword;
+      beforeCreate: async (admin, options) => {
+        const encryptedPassword = await bcrypt.hashPassword(admin.password);
+        admin.password = encryptedPassword;
       },
       // beforeValidate: (user, options) => {
       //   user.email = user.email.toLowerCase();
       // }
     },
     sequelize,
-    modelName: 'Admin',
+    // paranoid: true,
+    modelName: constant.model.ADMIN,
+    tableName: constant.dbTableName.ADMIN,
   });
   return Admin;
 };

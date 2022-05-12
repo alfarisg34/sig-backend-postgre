@@ -24,7 +24,8 @@ module.exports = (sequelize, DataTypes) => {
     nama_jenis: DataTypes.STRING
   }, {
     sequelize,
-    modelName: 'JenisKebudayaan',
+    modelName: constant.model.JENISKEBUDAYAAN,
+    tableName: constant.dbTableName.JENISKEBUDAYAAN,
   });
   return JenisKebudayaan;
 };
