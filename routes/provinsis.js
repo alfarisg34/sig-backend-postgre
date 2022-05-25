@@ -11,7 +11,7 @@ const auth = require('../middleware/auth')
 router.get('/reads', handler.Catcher(controller.reads));
 router.get('/read/:id', idCheck, handler.Catcher(controller.read));
 
-router.use(auth(["ADMIN"]))
+// router.use(auth(["ADMIN"]))
 router.get('/restore/:id', idCheck, handler.Catcher(controller.restore));
 router.post('/create', validator(schemas.create), handler.Catcher(controller.create));
 router.put('/update/:id', idCheck, handler.Catcher(controller.update));

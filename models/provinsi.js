@@ -15,7 +15,7 @@ module.exports = (sequelize, DataTypes) => {
     static associate(models) {
       // define association here
       this.belongsTo(models[constant.model.KEBUDAYAAN], {
-        foreignKey: 'id_provinsi',
+        foreignKey: 'id',
         as: 'id provinsi'
       })
     }
@@ -26,6 +26,7 @@ module.exports = (sequelize, DataTypes) => {
     longitude: DataTypes.INTEGER
   }, {
     sequelize,
+    paranoid:false,
     modelName: constant.model.PROVINSI,
     tableName: constant.dbTableName.PROVINSI,
   });
