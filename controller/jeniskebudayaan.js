@@ -3,14 +3,14 @@ const {JenisKebudayaanModel } = require('../models')
 const { deletedOrAll } = require('../helper/util')
 
 // read all
-exports.read = async (req, res) => {
+exports.reads = async (req, res) => {
     const jeniskebudayaans = await JenisKebudayaanModel.findAll({
         attributes: {
             exclude: ['createdAt', 'updatedAt']
         },
         paranoid: false,
         order: [['createdAt', 'ASC']],
-        where: deletedOrAll(req.query),
+        // where: deletedOrAll(req.query),
     })
     res.status(200).json({
         success: true,
@@ -20,7 +20,7 @@ exports.read = async (req, res) => {
 }
 
 // get by id
-exports.get = async (req, res, next) => {
+exports.read = async (req, res, next) => {
     const jeniskebudayaan = await JenisKebudayaanModel.findOne({
         attributes: {
             exclude: ['createdAt', 'updatedAt']
