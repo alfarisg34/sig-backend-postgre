@@ -12,10 +12,10 @@ module.exports = {
         type: Sequelize.STRING
       },
       latitude: {
-        type: Sequelize.INTEGER
+        type: Sequelize.FLOAT(11,10)
       },
       longitude: {
-        type: Sequelize.INTEGER
+        type: Sequelize.FLOAT(11,10)
       },
       createdAt: {
         allowNull: false,

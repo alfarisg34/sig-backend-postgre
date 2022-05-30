@@ -6,3 +6,5 @@ npx sequelize-cli seed:generate --name kebudayaan
 npx sequelize-cli db:seed --seed 20220518064225-jeniskebudayaan.js
 npx sequelize-cli db:seed --seed 20220518064243-provinsi.js
 npx sequelize-cli db:seed --seed 20220518064316-kebudayaan.js
+
+sequelize db:seed:all

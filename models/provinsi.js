@@ -22,8 +22,8 @@ module.exports = (sequelize, DataTypes) => {
   }
   Provinsi.init({
     nama_provinsi: DataTypes.STRING,
-    latitude: DataTypes.INTEGER,
-    longitude: DataTypes.INTEGER
+    latitude: DataTypes.FLOAT,
+    longitude: DataTypes.FLOAT
   }, {
     sequelize,
     paranoid:false,
