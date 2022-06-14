@@ -24,7 +24,7 @@ module.exports = {
         type: Sequelize.INTEGER
       },
       deskripsi: {
-        type: Sequelize.STRING
+        type: Sequelize.TEXT
       },
       video: {
         type: Sequelize.STRING
