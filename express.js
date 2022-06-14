@@ -7,8 +7,15 @@ const logger = require('morgan');
 const apiRoutes = require("./routes/index");
 
 module.exports = async function (app) {
+
+    const corsOptions = {
+        origin: process.env.CORS_ORIGIN,
+        credentials: true, // access-control-allow-credentials:true
+        allowedHeaders: ['Content-Type', 'Authorization', 'Set-Cookie'],
+        optionSuccessStatus: 200,
+      }
     
-    app.use(cors())
+    app.use(cors(corsOptions))
     app.options('*', cors())
 
     app.use(helmet())
