@@ -1,5 +1,5 @@
 var createError = require('http-errors');
-const {KebudayaanModel } = require('../models')
+const {KebudayaanModel,ProvinsiModel } = require('../models')
 const { deletedOrAll } = require('../helper/util')
 
 // read all
@@ -30,6 +30,46 @@ exports.read = async (req, res, next) => {
         },
         raw: true,
         paranoid: false
+    })
+
+    // throw error 404
+    if (!kebudayaan) {
+        return next(createError(404, 'not found'))
+    }
+
+    res.status(200).json({
+        success: true,
+        message: "get by id",
+        data: kebudayaan
+    })
+}
+
+// get by province id
+exports.readsbyprovince = async (req, res, next) => {
+    const provinsi = await ProvinsiModel.findOne({
+        attributes: {
+            exclude: ['createdAt', 'updatedAt' ,'latitude','longitude']
+        },
+        where: {
+            id: req.params.id
+        },
+        raw: true,
+        paranoid: false,
+    })
+    const kebudayaan = await KebudayaanModel.findAll({
+        attributes: {
+            exclude: ['createdAt', 'updatedAt']
+        },
+        where: {
+            id_provinsi: req.params.id
+        },
+        raw: true,
+        paranoid: false,
+        include: [{
+            model: ProvinsiModel,
+            // as:'provinsi',
+            // where: {id: req.params.id}
+           }]
     })
 
     // throw error 404

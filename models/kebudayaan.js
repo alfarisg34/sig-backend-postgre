@@ -15,13 +15,13 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
-      this.hasMany(models[constant.model.PROVINSI], {
+      this.hasOne(models[constant.model.PROVINSI], {
         foreignKey: 'id',
-        as: 'id provinsi'
+        // as: 'provinsi'
       }),
-      this.hasMany(models[constant.model.JENISKEBUDAYAAN], {
+      this.hasOne(models[constant.model.JENISKEBUDAYAAN], {
         foreignKey: 'id',
-        as: 'id jenis budaya'
+        // as: 'jenisKebudayaan'
       })
     }
   }

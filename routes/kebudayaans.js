@@ -10,6 +10,7 @@ const auth = require('../middleware/auth')
 /* GET users listing. */
 router.get('/reads', handler.Catcher(controller.reads));
 router.get('/read/:id', idCheck, handler.Catcher(controller.read));
+router.get('/readsbyprovince/:id', idCheck, handler.Catcher(controller.readsbyprovince));
 
 // router.use(auth(["ADMIN"]))
 router.get('/restore/:id', idCheck, handler.Catcher(controller.restore));

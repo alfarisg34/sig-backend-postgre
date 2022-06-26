@@ -16,7 +16,7 @@ module.exports = (sequelize, DataTypes) => {
       // define association here
       this.belongsTo(models[constant.model.KEBUDAYAAN], {
         foreignKey: 'id',
-        as: 'id jenis budaya'
+        // as: 'id jenis budaya'
       })
     }
   }
