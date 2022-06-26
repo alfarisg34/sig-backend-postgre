@@ -36,6 +36,13 @@ exports.login = async function (req, res, next) {
     });
 }
 
+exports.logout = async (req, res, next) => {
+    res.status(200).json({
+        success: true,
+        message: "Logout Success",
+    });
+}
+
 exports.check = async (req, res, next) => {
     res.status(200).json({
         success: true,
