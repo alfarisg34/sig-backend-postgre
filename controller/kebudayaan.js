@@ -8,6 +8,10 @@ exports.reads = async (req, res) => {
         attributes: {
             exclude: ['createdAt', 'updatedAt']
         },
+        include:[
+          {  model: ProvinsiModel,
+            attributes:['nama_provinsi']}
+        ],
         paranoid: false,
         order: [['createdAt', 'ASC']],
         // where: deletedOrAll(req.query),

@@ -15,12 +15,12 @@ module.exports = (sequelize, DataTypes) => {
      */
     static associate(models) {
       // define association here
-      this.hasOne(models[constant.model.PROVINSI], {
-        foreignKey: 'id',
+      this.belongsTo(models[constant.model.PROVINSI], {
+        // foreignKey: 'id',
         // as: 'provinsi'
       }),
-      this.hasOne(models[constant.model.JENISKEBUDAYAAN], {
-        foreignKey: 'id',
+      this.belongsTo(models[constant.model.JENISKEBUDAYAAN], {
+        // foreignKey: 'id',
         // as: 'jenisKebudayaan'
       })
     }
@@ -33,8 +33,8 @@ module.exports = (sequelize, DataTypes) => {
     tahun: DataTypes.INTEGER,
     deskripsi: DataTypes.STRING,
     video: DataTypes.STRING,
-    id_provinsi: DataTypes.INTEGER,
-    id_jenisBudaya: DataTypes.INTEGER
+    ProvinsiModelId: DataTypes.INTEGER,
+    JenisKebudayaanModelId: DataTypes.INTEGER
   }, {
     sequelize,
     modelName: constant.model.KEBUDAYAAN,

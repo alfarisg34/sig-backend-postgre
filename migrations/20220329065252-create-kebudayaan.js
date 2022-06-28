@@ -29,10 +29,10 @@ module.exports = {
       video: {
         type: Sequelize.STRING
       },
-      id_provinsi: {
+      ProvinsiModelId: {
         type: Sequelize.INTEGER
       },
-      id_jenisBudaya: {
+      JenisKebudayaanModelId: {
         type: Sequelize.INTEGER
       },
       createdAt: {
