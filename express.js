@@ -21,8 +21,8 @@ module.exports = async function (app) {
     app.use(helmet())
 
     app.use(logger('dev'));
-    app.use(express.json());
-    app.use(express.urlencoded({ extended: false }));
+    app.use(express.json({ limit: '50mb' }));
+    app.use(express.urlencoded({ limit: '50mb', extended: false }));
     app.use(express.static(path.join(__dirname, 'public')));
 
     app.get('/', (_req, res) => res.send('the server is run!'))

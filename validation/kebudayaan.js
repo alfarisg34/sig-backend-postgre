@@ -13,8 +13,8 @@ module.exports = {
             tahun: joi.number().integer(),
             deskripsi: joi.string(),
             video: joi.string(),
-            id_provinsi: joi.number().integer().required(),
-            id_jenisBudaya: joi.number().integer().required(),
+            ProvinsiModelId: joi.number().integer().required(),
+            JenisKebudayaanModelId: joi.number().integer().required(),
         }),
     }
 }
