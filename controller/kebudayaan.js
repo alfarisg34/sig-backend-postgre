@@ -1,6 +1,9 @@
 var createError = require('http-errors');
-const {KebudayaanModel,ProvinsiModel } = require('../models')
-const { deletedOrAll } = require('../helper/util')
+const {KebudayaanModel,ProvinsiModel,JenisKebudayaanModel } = require('../models')
+const { deletedOrAll} = require('../helper/util')
+const parseSequelizeOptions = require('../helper/parseSequelizeOptions')
+const getCursorData = require('../helper/getCursorData')
+const { deleteCloudPicture } = require("../service/cloudinary");
 
 // read all
 exports.reads = async (req, res) => {
@@ -23,6 +26,30 @@ exports.reads = async (req, res) => {
     })
 }
 
+exports.getBudayaAll = async function (req, res) {
+    const options = parseSequelizeOptions(req.query);
+    options.include = [
+        {
+            model: JenisKebudayaanModel,
+            attributes: ['nama_jenis'],
+        },
+        {
+            model: ProvinsiModel,
+            attributes: ['nama_provinsi']
+        }
+    ];
+    options.order = [
+        ['id', 'DESC']
+    ];
+    const budaya = await KebudayaanModel.findAll(options);
+    const cursor = await getCursorData(KebudayaanModel, req.query);
+
+    return res.status(200).json({
+      sucess: true,
+      data: budaya,
+      cursor
+    });
+}
 // get by id
 exports.read = async (req, res, next) => {
     const kebudayaan = await KebudayaanModel.findOne({
@@ -92,25 +119,33 @@ exports.readsbyprovince = async (req, res, next) => {
 exports.create = async (req, res, next) => {
     const {
         nama_budaya,
-        image,
         penetapanNum,
         pencatatanNum,
         tahun,
         deskripsi,
         video,
-        id_provinsi,
-        id_jenisBudaya,
+        ProvinsiModelId,
+        JenisKebudayaanModelId,
     } = req.body
+
+    const duplicate = await KebudayaanModel.findOne({ where: { nama_budaya } })
+    if (duplicate) {
+      return res.status(409).json({
+        success: false,
+        message: "Budaya already exist"
+      });
+    };
+
     const kebudayaan = await KebudayaanModel.create({
         nama_budaya,
-        image,
+        image:req.file.path,
         penetapanNum,
         pencatatanNum,
         tahun,
         deskripsi,
         video,
-        id_provinsi,
-        id_jenisBudaya,
+        ProvinsiModelId,
+        JenisKebudayaanModelId,
     })
     res.status(200).json({
         success: true,
