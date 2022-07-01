@@ -59,8 +59,11 @@ exports.read = async (req, res, next) => {
         where: {
             id: req.params.id
         },
-        raw: true,
-        paranoid: false
+        include:[
+            {  model: ProvinsiModel,
+              attributes:['nama_provinsi']}
+          ],
+        paranoid: false,
     })
 
     // throw error 404
@@ -77,29 +80,16 @@ exports.read = async (req, res, next) => {
 
 // get by province id
 exports.readsbyprovince = async (req, res, next) => {
-    const provinsi = await ProvinsiModel.findOne({
-        attributes: {
-            exclude: ['createdAt', 'updatedAt' ,'latitude','longitude']
-        },
-        where: {
-            id: req.params.id
-        },
-        raw: true,
-        paranoid: false,
-    })
     const kebudayaan = await KebudayaanModel.findAll({
         attributes: {
             exclude: ['createdAt', 'updatedAt']
         },
         where: {
-            id_provinsi: req.params.id
+            ProvinsiModelId: req.params.id
         },
-        raw: true,
-        paranoid: false,
         include: [{
-            model: ProvinsiModel,
-            // as:'provinsi',
-            // where: {id: req.params.id}
+            model: JenisKebudayaanModel,
+            attributes: ['nama_jenis'],
            }]
     })
 
@@ -128,13 +118,12 @@ exports.create = async (req, res, next) => {
         JenisKebudayaanModelId,
     } = req.body
 
+    let identifier
+
     const duplicate = await KebudayaanModel.findOne({ where: { nama_budaya } })
     if (duplicate) {
-      return res.status(409).json({
-        success: false,
-        message: "Budaya already exist"
-      });
-    };
+        return next(createError(404, 'Budaya already exist'))
+    }
 
     const kebudayaan = await KebudayaanModel.create({
         nama_budaya,
@@ -147,6 +136,36 @@ exports.create = async (req, res, next) => {
         ProvinsiModelId,
         JenisKebudayaanModelId,
     })
+
+    const findUpdate= await KebudayaanModel.findOne({ where: { nama_budaya } })
+    if(findUpdate.id<10){
+        identifier='0000'+(findUpdate.id).toString()
+    }else if(findUpdate.id<100){
+        identifier='000'+(findUpdate.id).toString()
+    }else if(findUpdate.id<1000){
+        identifier='00'+(findUpdate.id).toString()
+    }else if(findUpdate.id<10000){
+        identifier='0'+(findUpdate.id).toString()
+    }
+    else if(findUpdate.id<100000){
+        identifier=(findUpdate.id).toString()
+    }else{{
+        identifier='00000'
+    }}
+    const update = await findUpdate.update({
+        penetapanNum:(tahun).toString()+identifier
+    }, {
+        where: {
+            nama_budaya: nama_budaya
+        },
+        paranoid: false,
+        fields: ['penetapanNum'],
+    })
+
+    if (!update) {
+        return next(createError(404, 'No.reg gagal dibuat'))
+    }
+    
     res.status(200).json({
         success: true,
         message: `Kebudayaan ${nama_budaya} created`,
@@ -163,7 +182,7 @@ exports.update = async (req, res, next) => {
             id: req.params.id
         },
         paranoid: false,
-        fields: ['nama_budaya'],
+        fields: ['nama_budaya','image','tahun','deskripsi','ProvinsiModelId','JenisKebudayaanModelId'],
         returning: ['id', 'nama_budaya', 'updatedAt'],
     })
 
