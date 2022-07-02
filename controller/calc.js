@@ -1,5 +1,5 @@
 const {KebudayaanModel,ProvinsiModel } = require('../models')
-const { sequelize } = require('./models')
+const { sequelize } = require('../models')
 const math = require('mathjs');
 
 module.exports.getCalculation = async function (req, res) {
@@ -13,7 +13,7 @@ module.exports.getCalculation = async function (req, res) {
           model: ProvinsiModel
         }
       ],
-      group: ['Provinsi.id']
+      group: ['ProvinsiModel.id']
     });
 
     let arrTotal = [];
