@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "password",
+    "database": "db_sig_development",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port":"5433"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "password",
+    "database": "db_sig_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "port":"5433"
+  },
+  "production": {
+    "username": "process.env.PG_USER",
+    "password": "process.env.PG_PASSWORD",
+    "database": "process.env.PG_DATABASE",
+    "host": "process.env.PG_HOST",
+    "dialect": "postgres",
+    "port":"process.env.PG_PORT"
+  }
+}
