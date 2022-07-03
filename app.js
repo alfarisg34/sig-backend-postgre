@@ -4,7 +4,7 @@ const express = require('express')
 const { testConnection } = require('./sequelize')
 const app = require('./express')
 
-const port = process.env.PORT || 3000
+const port = process.env.PORT || 8000
 
 testConnection()
 const server = express();

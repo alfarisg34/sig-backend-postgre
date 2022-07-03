@@ -1,11 +1,11 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "password",
-    "database": "db_sig_development",
-    "host": "127.0.0.1",
+    "username": "utcjiwynhzlaie",
+    "password": "c82b7c53777a619887c6a4d4f26fedc17e2dd51509b2d9cdf5c23496ca41fa77",
+    "database": "de4n06ji2b70es",
+    "host": "ec2-44-198-82-71.compute-1.amazonaws.com",
     "dialect": "postgres",
-    "port":"5433"
+    "port":"5432"
   },
   "test": {
     "username": "postgres",
