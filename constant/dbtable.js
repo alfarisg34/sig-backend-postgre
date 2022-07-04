@@ -8,4 +8,4 @@ exports.PROVINSI = "provinsis"
 exports.KEBUDAYAAN = "kebudayaans"
 
 // jenis kebudayaan
-exports.JENISKEBUDAYAAN = "jenisjebudayaans"
+exports.JENISKEBUDAYAAN = "jeniskebudayaans"
