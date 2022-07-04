@@ -5,7 +5,7 @@
     "database": "db_sig_development",
     "host": "127.0.0.1",
     "dialect": "postgres",
-    "port":"5432"
+    "port":"5433"
   },
   "test": {
     "username": "postgres",
