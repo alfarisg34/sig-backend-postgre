@@ -10,7 +10,8 @@ module.exports.getCalculation = async function (req, res) {
       attributes: [[sequelize.fn('count', '*'), 'totalBudaya']],
       include: [
         {
-          model: ProvinsiModel
+          model: ProvinsiModel,
+          attributes: ['nama_provinsi']
         }
       ],
       group: ['ProvinsiModel.id']

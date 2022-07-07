@@ -14,10 +14,17 @@
     "dialect": "postgres"
   },
   "production": {
-    "username": "postgres",
-    "password": "admin",
-    "database": "db_sig_production",
-    "host": "127.0.0.1",
-    "dialect": "postgres"
+    "username": "awdawd",
+    "password": "awdawd",
+    "database": "awdawd",
+    "host": "awdawd",
+    "port":"5432",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false 
+      }
+    }
   }
 }
