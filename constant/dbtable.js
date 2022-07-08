@@ -1,11 +1,11 @@
 // admin
-exports.ADMIN = "admins"
+exports.ADMIN = "Admins"
 
 // provinsi
-exports.PROVINSI = "provinsis"
+exports.PROVINSI = "Provinsis"
 
 // kebudayaan
-exports.KEBUDAYAAN = "kebudayaans"
+exports.KEBUDAYAAN = "Kebudayaans"
 
 // jenis kebudayaan
-exports.JENISKEBUDAYAAN = "jeniskebudayaans"
+exports.JENISKEBUDAYAAN = "JenisKebudayaans"

@@ -43,7 +43,11 @@ module.exports = {
         allowNull: false,
         type: Sequelize.DATE
       }
-    });
+    },
+    {
+      initialAutoIncrement: 1000,
+    }
+    );
   },
   async down(queryInterface, Sequelize) {
     await queryInterface.dropTable('Kebudayaans');
