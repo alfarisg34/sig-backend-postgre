@@ -108,7 +108,6 @@ exports.readsbyprovince = async (req, res, next) => {
 // create
 exports.create = async (req, res, next) => {
     const {
-        nama_budaya,
         penetapanNum,
         pencatatanNum,
         tahun,
@@ -117,13 +116,16 @@ exports.create = async (req, res, next) => {
         ProvinsiModelId,
         JenisKebudayaanModelId,
     } = req.body
+    let namaBudaya= req.body.nama_budaya
+    namaBudaya=namaBudaya.toLowerCase()
 
     let identifier
 
-    const duplicate = await KebudayaanModel.findOne({ where: { nama_budaya } })
+    const duplicate = await KebudayaanModel.findOne({ where: { nama_budaya : namaBudaya } })
     if (duplicate) {
         return next(createError(404, 'Budaya already exist'))
     }
+    const nama_budaya = namaBudaya
 
     const kebudayaan = await KebudayaanModel.create({
         nama_budaya,

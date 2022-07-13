@@ -6,7 +6,7 @@ module.exports = {
       'Kebudayaans',
       [
         {
-          "nama_budaya": "Tor-Tor",
+          "nama_budaya": "tor-tor",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483945754.jpg",
           "penetapanNum": 201300002,
           "tahun": 2013,
@@ -17,7 +17,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Gordang Sambilan",
+          "nama_budaya": "gordang sambilan",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483945839.jpg",
           "penetapanNum": 201300003,
           "tahun": 2013,
@@ -28,7 +28,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Dulmuluk",
+          "nama_budaya": "dulmuluk",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483946201.jpg",
           "penetapanNum": 201300008,
           "tahun": 2013,
@@ -39,7 +39,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Krinok",
+          "nama_budaya": "krinok",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483947318.jpg",
           "penetapanNum": 201300012,
           "tahun": 2013,
@@ -50,7 +50,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Makyong",
+          "nama_budaya": "makyong",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483947673.jpg",
           "penetapanNum": 201300014,
           "tahun": 2013,
@@ -61,7 +61,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Dambus",
+          "nama_budaya": "dambus",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485417865.jpg",
           "penetapanNum": 201300017,
           "tahun": 2013,
@@ -72,7 +72,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Debus Banten",
+          "nama_budaya": "debus banten",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485417931.jpg",
           "penetapanNum": 201300020,
           "tahun": 2013,
@@ -83,7 +83,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Ondel-ondel",
+          "nama_budaya": "ondel-ondel",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483949031.jpg",
           "penetapanNum": 201300021,
           "tahun": 2013,
@@ -94,7 +94,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Topeng Betawi dan Lenong",
+          "nama_budaya": "topeng betawi dan lenong",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485476463.jpg",
           "penetapanNum": 201300022,
           "tahun": 2013,
@@ -105,7 +105,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Ronggeng Gunung",
+          "nama_budaya": "ronggeng gunung",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485418058.jpg",
           "penetapanNum": 201300025,
           "tahun": 2013,
@@ -116,7 +116,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Sisingaan",
+          "nama_budaya": "sisingaan",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483949688.jpg",
           "penetapanNum": 201300026,
           "tahun": 2013,
@@ -127,7 +127,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Calung Banyumas dan Jawa Barat",
+          "nama_budaya": "calung banyumas dan jawa barat",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485418125.jpg",
           "penetapanNum": 201300027,
           "tahun": 2013,
@@ -138,7 +138,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Reog Ponorogo",
+          "nama_budaya": "reog ponorogo",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483950473.jpg",
           "penetapanNum": 201300028,
           "tahun": 2013,
@@ -149,7 +149,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Sapi Sonok",
+          "nama_budaya": "sapi sonok",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483950912.jpg",
           "penetapanNum": 201300030,
           "tahun": 2013,
@@ -160,7 +160,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Gandrung Banyuwangi",
+          "nama_budaya": "gandrung banyuwangi",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485418210.jpg",
           "penetapanNum": 201300031,
           "tahun": 2013,
@@ -171,7 +171,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Kentrung",
+          "nama_budaya": "kentrung",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485418266.jpg",
           "penetapanNum": 201300032,
           "tahun": 2013,
@@ -182,7 +182,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Karungut",
+          "nama_budaya": "karungut",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485418621.jpg",
           "penetapanNum": 201300038,
           "tahun": 2013,
@@ -193,7 +193,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Hudoq",
+          "nama_budaya": "hudoq",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485419004.jpg",
           "penetapanNum": 201300042,
           "tahun": 2013,
@@ -204,7 +204,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Kolintang",
+          "nama_budaya": "kolintang",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485419236.jpg",
           "penetapanNum": 201300045,
           "tahun": 2013,
@@ -215,7 +215,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Saiyyang Pattu'du",
+          "nama_budaya": "saiyyang pattu'du",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201300046-penetapan-4_1608518190.jpg",
           "penetapanNum": 201300046,
           "tahun": 2013,
@@ -226,7 +226,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Lariangi",
+          "nama_budaya": "lariangi",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485419643.jpg",
           "penetapanNum": 201300050,
           "tahun": 2013,
@@ -237,7 +237,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Pa'gellu",
+          "nama_budaya": "pa'gellu",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/noimage.jpeg",
           "penetapanNum": 201300053,
           "tahun": 2013,
@@ -248,7 +248,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Pakkarena",
+          "nama_budaya": "pakkarena",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485420028.jpg",
           "penetapanNum": 201300055,
           "tahun": 2013,
@@ -259,7 +259,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Molapi Saronde",
+          "nama_budaya": "molapi saronde",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485420138.jpg",
           "penetapanNum": 201300056,
           "tahun": 2013,
@@ -270,7 +270,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Gendang Beleq",
+          "nama_budaya": "gendang beleq",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485420231.jpg",
           "penetapanNum": 201300057,
           "tahun": 2013,
@@ -281,7 +281,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Wayang Kulit Sasak",
+          "nama_budaya": "wayang kulit sasak",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485420384.jpg",
           "penetapanNum": 201300058,
           "tahun": 2013,
@@ -292,7 +292,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Sasandu (Sasando)",
+          "nama_budaya": "sasandu (sasando)",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485420480.jpg",
           "penetapanNum": 201300059,
           "tahun": 2013,
@@ -303,7 +303,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Ehe Lawn",
+          "nama_budaya": "ehe lawn",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485421015.jpg",
           "penetapanNum": 201300062,
           "tahun": 2013,
@@ -314,7 +314,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Maku-maku",
+          "nama_budaya": "maku-maku",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485421261.jpg",
           "penetapanNum": 201300064,
           "tahun": 2013,
@@ -325,7 +325,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Soya-soya",
+          "nama_budaya": "soya-soya",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485421428.jpg",
           "penetapanNum": 201300066,
           "tahun": 2013,
@@ -336,7 +336,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Yosim Pancar",
+          "nama_budaya": "yosim pancar",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485421517.jpg",
           "penetapanNum": 201300067,
           "tahun": 2013,
@@ -347,7 +347,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Tifa",
+          "nama_budaya": "tifa",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485421810.jpg",
           "penetapanNum": 201300070,
           "tahun": 2013,
@@ -358,7 +358,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Angklung",
+          "nama_budaya": "angklung",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485422156.jpg",
           "penetapanNum": 201300073,
           "tahun": 2013,
@@ -369,7 +369,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Wayang",
+          "nama_budaya": "wayang",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/noimage.jpeg",
           "penetapanNum": 201300076,
           "tahun": 2013,
@@ -380,7 +380,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Huda-huda",
+          "nama_budaya": "huda-huda",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/noimage.jpeg",
           "penetapanNum": 201400083,
           "tahun": 2014,
@@ -391,7 +391,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Serampang Duabelas",
+          "nama_budaya": "serampang duabelas",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483949184.jpg",
           "penetapanNum": 201400086,
           "tahun": 2014,
@@ -402,7 +402,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Rongeng Pasaman",
+          "nama_budaya": "rongeng pasaman",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483950020.jpg",
           "penetapanNum": 201400093,
           "tahun": 2014,
@@ -413,7 +413,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Indang Piaman",
+          "nama_budaya": "indang piaman",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483949624.jpg",
           "penetapanNum": 201400094,
           "tahun": 2014,
@@ -424,7 +424,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Silek Minang",
+          "nama_budaya": "silek minang",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483950125.jpg",
           "penetapanNum": 201400096,
           "tahun": 2014,
@@ -435,7 +435,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Tembang Batanghari Sembilan",
+          "nama_budaya": "tembang batanghari sembilan",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/noimage.jpeg",
           "penetapanNum": 201400098,
           "tahun": 2014,
@@ -446,7 +446,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Guritan Besemah",
+          "nama_budaya": "guritan besemah",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_14839503881.jpg",
           "penetapanNum": 201400100,
           "tahun": 2014,
@@ -457,7 +457,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Gendang Siantan",
+          "nama_budaya": "gendang siantan",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483951052.JPG",
           "penetapanNum": 201400112,
           "tahun": 2014,
@@ -468,7 +468,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Gubang",
+          "nama_budaya": "gubang",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483951121.JPG",
           "penetapanNum": 201400113,
           "tahun": 2014,
@@ -479,7 +479,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Gamolan Pekhing",
+          "nama_budaya": "gamolan pekhing",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1484029899.jpg",
           "penetapanNum": 201400116,
           "tahun": 2014,
@@ -490,7 +490,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Sigeh Penguten",
+          "nama_budaya": "sigeh penguten",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485506883.jpg",
           "penetapanNum": 201400118,
           "tahun": 2014,
@@ -501,7 +501,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Pencak Silat Bandrong",
+          "nama_budaya": "pencak silat bandrong",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1484030030.png",
           "penetapanNum": 201400119,
           "tahun": 2014,
@@ -512,7 +512,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Ubrug",
+          "nama_budaya": "ubrug",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1484030169.jpg",
           "penetapanNum": 201400120,
           "tahun": 2014,
@@ -523,7 +523,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Blenggo",
+          "nama_budaya": "blenggo",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1484031022.jpg",
           "penetapanNum": 201400128,
           "tahun": 2014,
@@ -534,7 +534,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Kuda Renggong",
+          "nama_budaya": "kuda renggong",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1484189435.JPG",
           "penetapanNum": 201400130,
           "tahun": 2014,
@@ -545,7 +545,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Jaipong",
+          "nama_budaya": "jaipong",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1484189524.jpg",
           "penetapanNum": 201400131,
           "tahun": 2014,
@@ -556,7 +556,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Ludruk",
+          "nama_budaya": "ludruk",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1484190114.jpg",
           "penetapanNum": 201400138,
           "tahun": 2014,
@@ -567,7 +567,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Jaran Bodhag",
+          "nama_budaya": "jaran bodhag",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1484190163.jpg",
           "penetapanNum": 201400139,
           "tahun": 2014,
@@ -578,7 +578,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Dongkrek",
+          "nama_budaya": "dongkrek",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485508506.jpg",
           "penetapanNum": 201400140,
           "tahun": 2014,
@@ -589,7 +589,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Bedhaya Semang",
+          "nama_budaya": "bedhaya semang",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485508683.jpg",
           "penetapanNum": 201400141,
           "tahun": 2014,
@@ -600,7 +600,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Seni Pertunjukan Tektekan Bali",
+          "nama_budaya": "seni pertunjukan tektekan bali",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485508740.jpg",
           "penetapanNum": 201400142,
           "tahun": 2014,
@@ -611,7 +611,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Lulo",
+          "nama_budaya": "lulo",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485506917.jpg",
           "penetapanNum": 201400159,
           "tahun": 2014,
@@ -622,7 +622,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Pepepepeka Ri Makka",
+          "nama_budaya": "pepepepeka ri makka",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485506774.jpg",
           "penetapanNum": 201400161,
           "tahun": 2014,
@@ -633,7 +633,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Poya",
+          "nama_budaya": "poya",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485505484.jpg",
           "penetapanNum": 201400166,
           "tahun": 2014,
@@ -644,7 +644,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Gamelan Jawa Gaya Surakarta dan Yogyakarta",
+          "nama_budaya": "gamelan jawa gaya surakarta dan yogyakarta",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/noimage.jpeg",
           "penetapanNum": 201400168,
           "tahun": 2014,
@@ -655,7 +655,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Mendu",
+          "nama_budaya": "mendu",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/noimage.jpeg",
           "penetapanNum": 201400171,
           "tahun": 2014,
@@ -666,7 +666,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Teater Bangsawan",
+          "nama_budaya": "teater bangsawan",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485143820.jpg",
           "penetapanNum": 201500180,
           "tahun": 2015,
@@ -677,7 +677,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Joget Dangkong",
+          "nama_budaya": "joget dangkong",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/noimage.jpeg",
           "penetapanNum": 201500181,
           "tahun": 2015,
@@ -688,7 +688,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Koba",
+          "nama_budaya": "koba",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485144517.jpg",
           "penetapanNum": 201500183,
           "tahun": 2015,
@@ -699,7 +699,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Kompangan/ Hadrah",
+          "nama_budaya": "kompangan/ hadrah",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485146833.jpg",
           "penetapanNum": 201500193,
           "tahun": 2015,
@@ -710,7 +710,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Tupai Jenjang",
+          "nama_budaya": "tupai jenjang",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485147264.jpg",
           "penetapanNum": 201500199,
           "tahun": 2015,
@@ -721,7 +721,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Ulu Ambek",
+          "nama_budaya": "ulu ambek",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485147763.jpg",
           "penetapanNum": 201500201,
           "tahun": 2015,
@@ -732,7 +732,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Rabab",
+          "nama_budaya": "rabab",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/noimage.jpeg",
           "penetapanNum": 201500202,
           "tahun": 2015,
@@ -743,7 +743,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Batombe",
+          "nama_budaya": "batombe",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485148619.jpg",
           "penetapanNum": 201500205,
           "tahun": 2015,
@@ -754,7 +754,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Angklung Buhun",
+          "nama_budaya": "angklung buhun",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485402983.jpg",
           "penetapanNum": 201500217,
           "tahun": 2015,
@@ -765,7 +765,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Seni Rampak Bedug",
+          "nama_budaya": "seni rampak bedug",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485403094.jpg",
           "penetapanNum": 201500218,
           "tahun": 2015,
@@ -776,7 +776,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Tanjidor",
+          "nama_budaya": "tanjidor",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485403438.jpg",
           "penetapanNum": 201500221,
           "tahun": 2015,
@@ -787,7 +787,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Gambang Kromong",
+          "nama_budaya": "gambang kromong",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485404378.jpg",
           "penetapanNum": 201500224,
           "tahun": 2015,
@@ -798,7 +798,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Sintren",
+          "nama_budaya": "sintren",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485404645.jpg",
           "penetapanNum": 201500226,
           "tahun": 2015,
@@ -809,7 +809,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Mamaos Cianjuran",
+          "nama_budaya": "mamaos cianjuran",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485405207.jpg",
           "penetapanNum": 201500228,
           "tahun": 2015,
@@ -820,7 +820,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Singo Ulung",
+          "nama_budaya": "singo ulung",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485407158.jpg",
           "penetapanNum": 201500235,
           "tahun": 2015,
@@ -831,7 +831,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Wayang Beber",
+          "nama_budaya": "wayang beber",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485407338.jpg",
           "penetapanNum": 201500236,
           "tahun": 2015,
@@ -842,7 +842,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Barong Ket",
+          "nama_budaya": "barong ket",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485417952.jpg",
           "penetapanNum": 201500241,
           "tahun": 2015,
@@ -853,7 +853,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Joged",
+          "nama_budaya": "joged",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/noimage.jpeg",
           "penetapanNum": 201500242,
           "tahun": 2015,
@@ -864,7 +864,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Topeng Sidakarya",
+          "nama_budaya": "topeng sidakarya",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485418534.jpg",
           "penetapanNum": 201500246,
           "tahun": 2015,
@@ -875,7 +875,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Baris Upacara",
+          "nama_budaya": "baris upacara",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485418629.jpg",
           "penetapanNum": 201500247,
           "tahun": 2015,
@@ -886,7 +886,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Rejang",
+          "nama_budaya": "rejang",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485418813.jpg",
           "penetapanNum": 201500249,
           "tahun": 2015,
@@ -897,7 +897,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Kledik",
+          "nama_budaya": "kledik",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485419214.jpg",
           "penetapanNum": 201500254,
           "tahun": 2015,
@@ -908,7 +908,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Kuriding/ Guriding",
+          "nama_budaya": "kuriding/ guriding",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485420017.jpg",
           "penetapanNum": 201500263,
           "tahun": 2015,
@@ -919,7 +919,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Ganrang",
+          "nama_budaya": "ganrang",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485488210.jpg",
           "penetapanNum": 201500276,
           "tahun": 2015,
@@ -930,7 +930,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Musik Bia",
+          "nama_budaya": "musik bia",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485488776.jpg",
           "penetapanNum": 201500281,
           "tahun": 2015,
@@ -941,7 +941,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Guel",
+          "nama_budaya": "guel",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483587715.jpg",
           "penetapanNum": 201600297,
           "tahun": 2016,
@@ -952,7 +952,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Likok Pulo",
+          "nama_budaya": "likok pulo",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483584834.jpg",
           "penetapanNum": 201600298,
           "tahun": 2016,
@@ -963,7 +963,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Randai Kuantan",
+          "nama_budaya": "randai kuantan",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483591049.jpg",
           "penetapanNum": 201600309,
           "tahun": 2016,
@@ -974,7 +974,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Debus Indragiri Hulu",
+          "nama_budaya": "debus indragiri hulu",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483591356.jpg",
           "penetapanNum": 201600312,
           "tahun": 2016,
@@ -985,7 +985,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Calempong Oguong",
+          "nama_budaya": "calempong oguong",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483591796.jpg",
           "penetapanNum": 201600313,
           "tahun": 2016,
@@ -996,7 +996,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Joget Sonde",
+          "nama_budaya": "joget sonde",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483591908.jpg",
           "penetapanNum": 201600314,
           "tahun": 2016,
@@ -1007,7 +1007,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Sepen Penyok",
+          "nama_budaya": "sepen penyok",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483602827.jpg",
           "penetapanNum": 201600319,
           "tahun": 2016,
@@ -1018,7 +1018,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Rudat Bangka Belitung",
+          "nama_budaya": "rudat bangka belitung",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483602986.jpg",
           "penetapanNum": 201600320,
           "tahun": 2016,
@@ -1029,7 +1029,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Musik Kromong Mandiangin",
+          "nama_budaya": "musik kromong mandiangin",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483673689.jpg",
           "penetapanNum": 201600326,
           "tahun": 2016,
@@ -1040,7 +1040,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Musik Kalinong",
+          "nama_budaya": "musik kalinong",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483673773.jpg",
           "penetapanNum": 201600327,
           "tahun": 2016,
@@ -1051,7 +1051,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Samrah Betawi",
+          "nama_budaya": "samrah betawi",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483676086.jpg",
           "penetapanNum": 201600341,
           "tahun": 2016,
@@ -1062,7 +1062,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Gambang Rancag",
+          "nama_budaya": "gambang rancag",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483676264.jpg",
           "penetapanNum": 201600342,
           "tahun": 2016,
@@ -1073,7 +1073,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Topeng Jantuk",
+          "nama_budaya": "topeng jantuk",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483676480.jpg",
           "penetapanNum": 201600343,
           "tahun": 2016,
@@ -1084,7 +1084,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Keroncong Tugu",
+          "nama_budaya": "keroncong tugu",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483676586.jpg",
           "penetapanNum": 201600344,
           "tahun": 2016,
@@ -1095,7 +1095,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Topeng Blantek",
+          "nama_budaya": "topeng blantek",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483676719.jpg",
           "penetapanNum": 201600345,
           "tahun": 2016,
@@ -1106,7 +1106,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Penca (Penca Silat Jawa Barat)",
+          "nama_budaya": "penca (penca silat jawa barat)",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483931490.jpg",
           "penetapanNum": 201600352,
           "tahun": 2016,
@@ -1117,7 +1117,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Badeng",
+          "nama_budaya": "badeng",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483931537.jpg",
           "penetapanNum": 201600353,
           "tahun": 2016,
@@ -1128,7 +1128,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Lais Garut",
+          "nama_budaya": "lais garut",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483931584.jpg",
           "penetapanNum": 201600354,
           "tahun": 2016,
@@ -1139,7 +1139,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Turonggo Seto Boyolali",
+          "nama_budaya": "turonggo seto boyolali",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483932477.jpg",
           "penetapanNum": 201600361,
           "tahun": 2016,
@@ -1150,7 +1150,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Langendriya Yogyakarta",
+          "nama_budaya": "langendriya yogyakarta",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483949447.jpg",
           "penetapanNum": 201600367,
           "tahun": 2016,
@@ -1161,7 +1161,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Langen Mandra Wanara",
+          "nama_budaya": "langen mandra wanara",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483949547.jpg",
           "penetapanNum": 201600369,
           "tahun": 2016,
@@ -1172,7 +1172,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Jathilan Yogyakarta",
+          "nama_budaya": "jathilan yogyakarta",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1483949911.jpg",
           "penetapanNum": 201600370,
           "tahun": 2016,
@@ -1183,7 +1183,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Jaran Kecak",
+          "nama_budaya": "jaran kecak",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1484019944.jpg",
           "penetapanNum": 201600376,
           "tahun": 2016,
@@ -1194,7 +1194,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Wayang Krucil Malangan",
+          "nama_budaya": "wayang krucil malangan",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1484020020.jpg",
           "penetapanNum": 201600377,
           "tahun": 2016,
@@ -1205,7 +1205,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Wayang Kulit Banjar",
+          "nama_budaya": "wayang kulit banjar",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1484189346.jpg",
           "penetapanNum": 201600398,
           "tahun": 2016,
@@ -1216,7 +1216,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Langga",
+          "nama_budaya": "langga",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485224327.jpg",
           "penetapanNum": 201600425,
           "tahun": 2016,
@@ -1227,7 +1227,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Tide-Tide",
+          "nama_budaya": "tide-tide",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/foto_1485224888.jpg",
           "penetapanNum": 201600433,
           "tahun": 2016,
@@ -1238,7 +1238,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Landok Sampot",
+          "nama_budaya": "landok sampot",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/Landok Sampot.jpg",
           "penetapanNum": 201700445,
           "tahun": 2017,
@@ -1249,7 +1249,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Rapa'i Pase",
+          "nama_budaya": "rapa'i pase",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/Rapa'i Pase.jpg",
           "penetapanNum": 201700446,
           "tahun": 2017,
@@ -1260,7 +1260,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Grimpheng",
+          "nama_budaya": "grimpheng",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/Grimpheng.jpg",
           "penetapanNum": 201700449,
           "tahun": 2017,
@@ -1271,7 +1271,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Genderang Sisibah",
+          "nama_budaya": "genderang sisibah",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/Genderang Sisibah.jpg",
           "penetapanNum": 201700450,
           "tahun": 2017,
@@ -1282,7 +1282,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Musik Gambang Dano Lamo",
+          "nama_budaya": "musik gambang dano lamo",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/Musik Gambang Dano Lamo.jpg",
           "penetapanNum": 201700469,
           "tahun": 2017,
@@ -1293,7 +1293,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Sijobang",
+          "nama_budaya": "sijobang",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/Sijobang Buwong Gasiong.jpg",
           "penetapanNum": 201700474,
           "tahun": 2017,
@@ -1304,7 +1304,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Silat Perisai",
+          "nama_budaya": "silat perisai",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/Silat Perisai.jpg",
           "penetapanNum": 201700475,
           "tahun": 2017,
@@ -1315,7 +1315,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Zapin Api",
+          "nama_budaya": "zapin api",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/Zapin Api.jpg",
           "penetapanNum": 201700476,
           "tahun": 2017,
@@ -1326,7 +1326,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Zapin Meskom",
+          "nama_budaya": "zapin meskom",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/Zapin Meskom.jpg",
           "penetapanNum": 201700477,
           "tahun": 2017,
@@ -1337,7 +1337,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Onduo Rokan",
+          "nama_budaya": "onduo rokan",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/Onduo Rokan.jpg",
           "penetapanNum": 201700483,
           "tahun": 2017,
@@ -1348,7 +1348,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Patingtung",
+          "nama_budaya": "patingtung",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/Patingtung.jpg",
           "penetapanNum": 201700492,
           "tahun": 2017,
@@ -1359,7 +1359,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Wayang Garing Serang",
+          "nama_budaya": "wayang garing serang",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/Wayang Garing Serang.jpg",
           "penetapanNum": 201700493,
           "tahun": 2017,
@@ -1370,7 +1370,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Rebana Biang",
+          "nama_budaya": "rebana biang",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201700498-penetapan-3_1532053356.JPG",
           "penetapanNum": 201700498,
           "tahun": 2017,
@@ -1381,7 +1381,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Silat Cingkrik",
+          "nama_budaya": "silat cingkrik",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201700501-penetapan-3_1533702429.jpg",
           "penetapanNum": 201700501,
           "tahun": 2017,
@@ -1392,7 +1392,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Gembyung",
+          "nama_budaya": "gembyung",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201700502-penetapan-3_1532231002.JPG",
           "penetapanNum": 201700502,
           "tahun": 2017,
@@ -1403,7 +1403,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Beksan Lawung Ageng Keraton Yogyakarta",
+          "nama_budaya": "beksan lawung ageng keraton yogyakarta",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201700507-penetapan-3_1532317137.jpg",
           "penetapanNum": 201700507,
           "tahun": 2017,
@@ -1414,7 +1414,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Beksan Bandabaya Pura Pakualaman",
+          "nama_budaya": "beksan bandabaya pura pakualaman",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/noimage.jpeg",
           "penetapanNum": 201700508,
           "tahun": 2017,
@@ -1425,7 +1425,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Badui",
+          "nama_budaya": "badui",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201700509-penetapan-3_1532313964.png",
           "penetapanNum": 201700509,
           "tahun": 2017,
@@ -1436,7 +1436,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Khuntulan Yogyakarta",
+          "nama_budaya": "khuntulan yogyakarta",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/noimage.jpeg",
           "penetapanNum": 201700510,
           "tahun": 2017,
@@ -1447,7 +1447,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Montro",
+          "nama_budaya": "montro",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201700511-penetapan-4_1532315240.jpg",
           "penetapanNum": 201700511,
           "tahun": 2017,
@@ -1458,7 +1458,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Panjidur Yogyakarta",
+          "nama_budaya": "panjidur yogyakarta",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201700514-penetapan-3_1532318017.jpg",
           "penetapanNum": 201700514,
           "tahun": 2017,
@@ -1469,7 +1469,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Wayang Topeng Pedalangan",
+          "nama_budaya": "wayang topeng pedalangan",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201700515-penetapan-3_1532318287.jpg",
           "penetapanNum": 201700515,
           "tahun": 2017,
@@ -1480,7 +1480,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Beksan Golek Menak",
+          "nama_budaya": "beksan golek menak",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201700518-penetapan-4_1532319803.png",
           "penetapanNum": 201700518,
           "tahun": 2017,
@@ -1491,7 +1491,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Srimpi Rangga Janur",
+          "nama_budaya": "srimpi rangga janur",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201700519-penetapan-3_1533799291.jpg",
           "penetapanNum": 201700519,
           "tahun": 2017,
@@ -1502,7 +1502,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Dadung Awuk",
+          "nama_budaya": "dadung awuk",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201700520-penetapan-4_1532319951.jpg",
           "penetapanNum": 201700520,
           "tahun": 2017,
@@ -1513,7 +1513,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Krumpyung Kulon Progo",
+          "nama_budaya": "krumpyung kulon progo",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201700522-penetapan-3_1532320817.jpg",
           "penetapanNum": 201700522,
           "tahun": 2017,
@@ -1524,7 +1524,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Barongan Blora",
+          "nama_budaya": "barongan blora",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/noimage.jpeg",
           "penetapanNum": 201700526,
           "tahun": 2017,
@@ -1535,7 +1535,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Sandhur Manduro",
+          "nama_budaya": "sandhur manduro",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201700528-penetapan-2_1532328982.png",
           "penetapanNum": 201700528,
           "tahun": 2017,
@@ -1546,7 +1546,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Jonggan",
+          "nama_budaya": "jonggan",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201700534-penetapan-2_1532333053.jpg",
           "penetapanNum": 201700534,
           "tahun": 2017,
@@ -1557,7 +1557,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Kuda Gipang",
+          "nama_budaya": "kuda gipang",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/noimage.jpeg",
           "penetapanNum": 201700543,
           "tahun": 2017,
@@ -1568,7 +1568,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Sinoman Hadrah",
+          "nama_budaya": "sinoman hadrah",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/noimage.jpeg",
           "penetapanNum": 201700544,
           "tahun": 2017,
@@ -1579,7 +1579,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Wayang Gung",
+          "nama_budaya": "wayang gung",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/noimage.jpeg",
           "penetapanNum": 201700545,
           "tahun": 2017,
@@ -1590,7 +1590,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Ronggeng Paser",
+          "nama_budaya": "ronggeng paser",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201700549-penetapan-2_1532404472.png",
           "penetapanNum": 201700549,
           "tahun": 2017,
@@ -1601,7 +1601,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Jatung Utang",
+          "nama_budaya": "jatung utang",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201700550-penetapan-4_1532405515.jpg",
           "penetapanNum": 201700550,
           "tahun": 2017,
@@ -1612,7 +1612,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Lalatip",
+          "nama_budaya": "lalatip",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201700551-penetapan-3_1532405525.jpg",
           "penetapanNum": 201700551,
           "tahun": 2017,
@@ -1623,7 +1623,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Gamelan Selonding",
+          "nama_budaya": "gamelan selonding",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201700555-penetapan-3_1532416111.jpg",
           "penetapanNum": 201700555,
           "tahun": 2017,
@@ -1634,7 +1634,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Leko",
+          "nama_budaya": "leko",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/noimage.jpeg",
           "penetapanNum": 201700559,
           "tahun": 2017,
@@ -1645,7 +1645,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Bonet",
+          "nama_budaya": "bonet",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201700561-penetapan-2_1532421324.jpg",
           "penetapanNum": 201700561,
           "tahun": 2017,
@@ -1656,7 +1656,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Masamper",
+          "nama_budaya": "masamper",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/noimage.jpeg",
           "penetapanNum": 201700572,
           "tahun": 2017,
@@ -1667,7 +1667,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Dansa Tali",
+          "nama_budaya": "dansa tali",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201700582-penetapan-3_1532573156.jpg",
           "penetapanNum": 201700582,
           "tahun": 2017,
@@ -1678,7 +1678,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Laweut",
+          "nama_budaya": "laweut",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800596,
           "tahun": 2018,
@@ -1689,7 +1689,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Sinandong Asahan",
+          "nama_budaya": "sinandong asahan",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800603,
           "tahun": 2018,
@@ -1700,7 +1700,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Guro-Guro Aron",
+          "nama_budaya": "guro-guro aron",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800604,
           "tahun": 2018,
@@ -1711,7 +1711,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Rangguk Kumun",
+          "nama_budaya": "rangguk kumun",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800620,
           "tahun": 2018,
@@ -1722,7 +1722,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Tauh Lempur",
+          "nama_budaya": "tauh lempur",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800623,
           "tahun": 2018,
@@ -1733,7 +1733,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Ntak Awo",
+          "nama_budaya": "ntak awo",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800624,
           "tahun": 2018,
@@ -1744,7 +1744,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Ngagoah Imo Pulau Tengah",
+          "nama_budaya": "ngagoah imo pulau tengah",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800628,
           "tahun": 2018,
@@ -1755,7 +1755,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Serimbang",
+          "nama_budaya": "serimbang",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800629,
           "tahun": 2018,
@@ -1766,7 +1766,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Hadrah Gendang Empat Belitong",
+          "nama_budaya": "hadrah gendang empat belitong",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800630,
           "tahun": 2018,
@@ -1777,7 +1777,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Sepen Buding",
+          "nama_budaya": "sepen buding",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800632,
           "tahun": 2018,
@@ -1788,7 +1788,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Silek Tigo Bulan",
+          "nama_budaya": "silek tigo bulan",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201800633-penetapan-1_1537863325.jpg",
           "penetapanNum": 201800633,
           "tahun": 2018,
@@ -1799,7 +1799,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Silat Pangean",
+          "nama_budaya": "silat pangean",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201800640-penetapan-1_1537861064.jpg",
           "penetapanNum": 201800640,
           "tahun": 2018,
@@ -1810,7 +1810,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Silat Pengantin Kepulauan Riau",
+          "nama_budaya": "silat pengantin kepulauan riau",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201800651-penetapan-1_1537861544.jpg",
           "penetapanNum": 201800651,
           "tahun": 2018,
@@ -1821,7 +1821,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Rudat Banten",
+          "nama_budaya": "rudat banten",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800666,
           "tahun": 2018,
@@ -1832,7 +1832,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Uncul",
+          "nama_budaya": "uncul",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201800673-penetapan-1_1537930271.jpg",
           "penetapanNum": 201800673,
           "tahun": 2018,
@@ -1843,7 +1843,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Zapin Betawi",
+          "nama_budaya": "zapin betawi",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800676,
           "tahun": 2018,
@@ -1854,7 +1854,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Wayang Kulit Betawi",
+          "nama_budaya": "wayang kulit betawi",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800677,
           "tahun": 2018,
@@ -1865,7 +1865,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Angklung Buncis",
+          "nama_budaya": "angklung buncis",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800678,
           "tahun": 2018,
@@ -1876,7 +1876,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Badud",
+          "nama_budaya": "badud",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800679,
           "tahun": 2018,
@@ -1887,7 +1887,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Bebegig",
+          "nama_budaya": "bebegig",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800680,
           "tahun": 2018,
@@ -1898,7 +1898,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Gaok",
+          "nama_budaya": "gaok",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800681,
           "tahun": 2018,
@@ -1909,7 +1909,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Reog Dongkol",
+          "nama_budaya": "reog dongkol",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800687,
           "tahun": 2018,
@@ -1920,7 +1920,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Tarling",
+          "nama_budaya": "tarling",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800692,
           "tahun": 2018,
@@ -1931,7 +1931,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Uyeg",
+          "nama_budaya": "uyeg",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800693,
           "tahun": 2018,
@@ -1942,7 +1942,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Wayang Beber Remeng Mangunjoyo",
+          "nama_budaya": "wayang beber remeng mangunjoyo",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800694,
           "tahun": 2018,
@@ -1953,7 +1953,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Wayang Wong Gaya Yogyakarta",
+          "nama_budaya": "wayang wong gaya yogyakarta",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800695,
           "tahun": 2018,
@@ -1964,7 +1964,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Wayang Kancil Yogyakarta",
+          "nama_budaya": "wayang kancil yogyakarta",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800696,
           "tahun": 2018,
@@ -1975,7 +1975,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Beksan Jebeng",
+          "nama_budaya": "beksan jebeng",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800697,
           "tahun": 2018,
@@ -1986,7 +1986,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Beksan Floret",
+          "nama_budaya": "beksan floret",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800698,
           "tahun": 2018,
@@ -1997,7 +1997,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Bedhaya Tejanata Pakualaman",
+          "nama_budaya": "bedhaya tejanata pakualaman",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800699,
           "tahun": 2018,
@@ -2008,7 +2008,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Bedhaya Kuwung-Kuwung",
+          "nama_budaya": "bedhaya kuwung-kuwung",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800700,
           "tahun": 2018,
@@ -2019,7 +2019,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Beksan Guntur Segara",
+          "nama_budaya": "beksan guntur segara",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800701,
           "tahun": 2018,
@@ -2030,7 +2030,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Bedhaya Angron Sekar",
+          "nama_budaya": "bedhaya angron sekar",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800702,
           "tahun": 2018,
@@ -2041,7 +2041,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Beksan Bugis Gaya Yogyakarta",
+          "nama_budaya": "beksan bugis gaya yogyakarta",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800703,
           "tahun": 2018,
@@ -2052,7 +2052,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Kethek Ogleng Gunung Kidul",
+          "nama_budaya": "kethek ogleng gunung kidul",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800704,
           "tahun": 2018,
@@ -2063,7 +2063,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Gejog Lesung Yogyakarta",
+          "nama_budaya": "gejog lesung yogyakarta",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800705,
           "tahun": 2018,
@@ -2074,7 +2074,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Peksi Moi",
+          "nama_budaya": "peksi moi",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800708,
           "tahun": 2018,
@@ -2085,7 +2085,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Tayub Yogyakarta",
+          "nama_budaya": "tayub yogyakarta",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800714,
           "tahun": 2018,
@@ -2096,7 +2096,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Beksan Etheng",
+          "nama_budaya": "beksan etheng",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800716,
           "tahun": 2018,
@@ -2107,7 +2107,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Golek Lambangsari Yogyakarta",
+          "nama_budaya": "golek lambangsari yogyakarta",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800717,
           "tahun": 2018,
@@ -2118,7 +2118,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Beksan Golek Pucung Kethoprak",
+          "nama_budaya": "beksan golek pucung kethoprak",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800719,
           "tahun": 2018,
@@ -2129,7 +2129,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Nini Thowong Yogyakarta",
+          "nama_budaya": "nini thowong yogyakarta",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800720,
           "tahun": 2018,
@@ -2140,7 +2140,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Gambang Semarang",
+          "nama_budaya": "gambang semarang",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201800726-penetapan-1_1608626805.png",
           "penetapanNum": 201800726,
           "tahun": 2018,
@@ -2151,7 +2151,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Kethek Ogleng Wonogiri",
+          "nama_budaya": "kethek ogleng wonogiri",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800728,
           "tahun": 2018,
@@ -2162,7 +2162,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Janger Banyuwangi",
+          "nama_budaya": "janger banyuwangi",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800731,
           "tahun": 2018,
@@ -2173,7 +2173,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Reog Cemandi Sidoarjo",
+          "nama_budaya": "reog cemandi sidoarjo",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800734,
           "tahun": 2018,
@@ -2184,7 +2184,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Wayang Thengul",
+          "nama_budaya": "wayang thengul",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/201800736-penetapan-1_1611211365.jpg",
           "penetapanNum": 201800736,
           "tahun": 2018,
@@ -2195,7 +2195,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Topeng Jatiduwur Jombang",
+          "nama_budaya": "topeng jatiduwur jombang",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800737,
           "tahun": 2018,
@@ -2206,7 +2206,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Jegog Jembrana",
+          "nama_budaya": "jegog jembrana",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800739,
           "tahun": 2018,
@@ -2217,7 +2217,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Terompong Beruk",
+          "nama_budaya": "terompong beruk",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800740,
           "tahun": 2018,
@@ -2228,7 +2228,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Silotong",
+          "nama_budaya": "silotong",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800763,
           "tahun": 2018,
@@ -2239,7 +2239,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Damarulan/Damarwulan Banjarmasin",
+          "nama_budaya": "damarulan/damarwulan banjarmasin",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800767,
           "tahun": 2018,
@@ -2250,7 +2250,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Pajjaga Bone Balla",
+          "nama_budaya": "pajjaga bone balla",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800775,
           "tahun": 2018,
@@ -2261,7 +2261,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Kajangki",
+          "nama_budaya": "kajangki",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800776,
           "tahun": 2018,
@@ -2272,7 +2272,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Gambus Ogi",
+          "nama_budaya": "gambus ogi",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800777,
           "tahun": 2018,
@@ -2283,7 +2283,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Parade Pasukan A'jaga Tubarani",
+          "nama_budaya": "parade pasukan a'jaga tubarani",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800779,
           "tahun": 2018,
@@ -2294,7 +2294,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Figura",
+          "nama_budaya": "figura",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800797,
           "tahun": 2018,
@@ -2305,7 +2305,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Yangere/Tali Dua Halmahera Utara",
+          "nama_budaya": "yangere/tali dua halmahera utara",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800811,
           "tahun": 2018,
@@ -2316,7 +2316,7 @@ module.exports = {
           "updatedAt": new Date()
         },
         {
-          "nama_budaya": "Karamo",
+          "nama_budaya": "karamo",
           "image": "https://warisanbudaya.kemdikbud.go.id/dashboard/media/photos/",
           "penetapanNum": 201800819,
           "tahun": 2018,
